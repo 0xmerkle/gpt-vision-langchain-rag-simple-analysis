@@ -1,0 +1,9 @@
+.env
+.venv
+.conda
+/chroma_db_text
+/local_uploads
+/deck_descriptions
+
+__pycache__/
+.DS_Store
